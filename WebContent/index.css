@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+	font-family: 'Sofia';font-size: 22px;
+}
+img{
+	height: 300px;
+    width: 400px;
+}
+h1{
+	font-family: 'Arbutus';font-size: 30px;
+}
+
+#submit{
+	float:left;
+}
+
+.card-header{
+	font-family: 'Arbutus';font-size: 22px;
+}
+.card-body{
+	font-family: 'Archivo';
+	font-size: 22px;
+}
+#header{
+	text-decoration:none;
+}
